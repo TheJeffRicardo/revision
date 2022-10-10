@@ -1,6 +1,8 @@
 table {
     border: 3px solid orange;
+    border-collapse: collapse;
 }
-thead {
-    border: 2px dotted orange;
+th, td {
+    border: 2px solid green;
+    text-align: center;
 }
